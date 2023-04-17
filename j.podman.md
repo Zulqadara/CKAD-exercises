@@ -78,7 +78,7 @@ Hello, World!
 </p>
 </details>
 
-### Run a command inside the pod to print out the index.html file
+### Run a command inside the container to print out the index.html file
 
 <details><summary>show</summary>
 <p>
